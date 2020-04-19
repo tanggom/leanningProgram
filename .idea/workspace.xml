@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e798fcf-aa71-457f-8266-a634cc5d3fa6" name="Default Changelist" comment="" />
+    <list default="true" id="9e798fcf-aa71-457f-8266-a634cc5d3fa6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/AbstractFactory/MainClz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/Builder/MainClz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/MainClz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ShipFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/Prototype/MainClz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/Prototype/PrototypeObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/MainClz.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/MainClz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaDesignPattern/target/classes/Singleton/MainClz.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaDesignPattern/target/classes/Singleton/MainClz.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/javaDesignPattern/target/" />
@@ -25,27 +40,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="5" />
+          <entry key="java" value="18" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="18" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="718" />
+          <entry key="java" value="1179" />
           <entry key="txt" value="2" />
           <entry key="xml" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="718" />
+          <entry key="JAVA" value="1179" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="84" />
         </counts>
@@ -55,35 +70,108 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Prototype/MainClz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="305">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/MainClz.java">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/MainClz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="476">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/AbstractFactory/MainClz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/HungrySingleton.java">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Builder/MainClz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            <state relative-caret-position="28">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ProductFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/CarFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <element signature="e#242#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Ship.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ShipFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -93,6 +181,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -108,6 +197,18 @@
         <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/LazySingleton.java" />
         <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/HungrySingleton.java" />
         <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/MainClz.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/Prototype/PrototypeObj.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/Prototype/MainClz.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Product.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Car.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/CarFactory.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Ship.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ShipFactory.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/MainClz.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/AbstractFactory/MainClz.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/Builder/MainCLz.java" />
+        <option value="$PROJECT_DIR$/javaDesignPattern/src/main/java/Builder/MainClz.java" />
       </list>
     </option>
   </component>
@@ -234,6 +335,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanningProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanningProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="javaDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Prototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leanningProgram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leanningProgram" type="462c0819:PsiDirectoryNode" />
+              <item name="javaDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Singleton" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,6 +379,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FactoryMethod" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -272,7 +396,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MainClz.createProduct">
+    <configuration name="MainClz.createProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FactoryMethod" />
+      <option name="MAIN_CLASS_NAME" value="FactoryMethod.MainClz" />
+      <option name="METHOD_NAME" value="createProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClz.testClone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Prototype" />
+      <option name="MAIN_CLASS_NAME" value="Prototype.MainClz" />
+      <option name="METHOD_NAME" value="testClone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClz.testLazySingleton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaDesignPattern" />
       <extension name="coverage">
@@ -289,8 +445,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.MainClz.testLazySingleton" />
+      <item itemvalue="JUnit.MainClz.testClone" />
+      <item itemvalue="JUnit.MainClz.createProduct" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainClz.createProduct" />
+        <item itemvalue="JUnit.MainClz.testClone" />
         <item itemvalue="JUnit.MainClz.testLazySingleton" />
       </list>
     </recent_temporary>
@@ -305,7 +468,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587285187318</updated>
-      <workItem from="1587285191690" duration="5000000" />
+      <workItem from="1587285191690" duration="12149000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1587289189646</created>
@@ -333,16 +496,26 @@
     <history-entry file="MainClz_testLazySingleton - 2020.04.19 at 17h 51m 18s.xml">
       <configuration name="MainClz.testLazySingleton" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MainClz_testClone - 2020.04.19 at 18h 17m 37s.xml">
+      <configuration name="MainClz.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainClz_testClone - 2020.04.19 at 18h 19m 48s.xml">
+      <configuration name="MainClz.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainClz_createProduct - 2020.04.19 at 20h 34m 16s.xml">
+      <configuration name="MainClz.createProduct" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5000000" />
+    <option name="totallyTimeSpent" value="12149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28820375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08310992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -353,7 +526,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" visible="true" weight="0.10866373" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" visible="true" weight="0.21585903" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -408,16 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/MainClz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/LazySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
@@ -425,14 +588,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/MainClz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Singleton/HungrySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="177">
+          <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="71" />
           <folding>
             <element signature="e#314#315#0" expanded="true" />
             <element signature="e#349#350#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Prototype/PrototypeObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Prototype/MainClz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ShipFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/ProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/FactoryMethod/MainClz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/AbstractFactory/MainClz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDesignPattern/src/main/java/Builder/MainClz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
